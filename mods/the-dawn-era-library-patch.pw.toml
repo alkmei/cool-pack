@@ -1,0 +1,13 @@
+name = "The Dawn Era: Library Patch"
+filename = "TDEPatch.jar"
+side = "server"
+
+[download]
+hash-format = "sha512"
+hash = "ff6f0ea70b830791e7d9f9f3b07efa187c4d9445df0559dd6505911122e3e61589bb3489da5090cd579fdc1ba2adb4a79a01194ae0579b21f9e26ea324bd6259"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 7056515
+project-id = 1357281

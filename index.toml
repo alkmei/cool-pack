@@ -216,6 +216,11 @@ hash = "14117b94c456598c9acece143c7a0da3cf56d13182d035a74a2da8a52dd19cbd"
 metafile = true
 
 [[files]]
+file = "mods/the-dawn-era-library-patch.pw.toml"
+hash = "5b5492260d98b6aae35987f7d97c85f83532bac49a290019044215df352a3db7"
+metafile = true
+
+[[files]]
 file = "mods/the-dawn-era.pw.toml"
 hash = "9305bd24b842bae542cae4a2b4278bb3444ed9b0284775ab4091b3d79a70375b"
 metafile = true
