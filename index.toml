@@ -11,6 +11,11 @@ hash = "e1016eb125a5a41a10f80847eb00affae0e539e703846f303949ed5d82b7f1bf"
 metafile = true
 
 [[files]]
+file = "mods/appleskin.pw.toml"
+hash = "793693a85f3c87d4e899ee0c58deabc53690bf5a70f17343f28fd5063ce8a1e1"
+metafile = true
+
+[[files]]
 file = "mods/aquamirae.pw.toml"
 hash = "61108f6f38c397683bcf3e9fab0641819ea6914a5b95e6a31fcdbf55466c2e26"
 metafile = true
@@ -53,6 +58,11 @@ metafile = true
 [[files]]
 file = "mods/corgilib.pw.toml"
 hash = "aab86d52c9896cfcf7c0635c3c897c3dd190de84e3be9eeb726a22c5a61602ed"
+metafile = true
+
+[[files]]
+file = "mods/corpse.pw.toml"
+hash = "2fba2317a375669ccb1376525d4d4e0d1903cc5dc44fc70dce1d0e3dbb6aacb1"
 metafile = true
 
 [[files]]
@@ -116,8 +126,18 @@ hash = "af98db6d0fbe292f6276e3462651292580294638eb7cab87a1b5e30b2309d060"
 metafile = true
 
 [[files]]
+file = "mods/jade.pw.toml"
+hash = "0fbcc8cf03336e6bed425e2115fc4ff1a3a05be5c655228b305e70380eb08b57"
+metafile = true
+
+[[files]]
 file = "mods/jadens-nether-expansion.pw.toml"
 hash = "18fdaa8b6729867b1862ea80eba84effc90f63b8d230eb529c5a949b30ae2695"
+metafile = true
+
+[[files]]
+file = "mods/jei.pw.toml"
+hash = "d11babd38824999025c7fffd76929db97b9273ef2dd892abd91fa8d847632e9d"
 metafile = true
 
 [[files]]
@@ -248,6 +268,11 @@ metafile = true
 [[files]]
 file = "mods/wab.pw.toml"
 hash = "98782c73c6611eff0873dc608608ac6184a5b49c2b224cebf4adf2215faa428f"
+metafile = true
+
+[[files]]
+file = "mods/xaeros-minimap.pw.toml"
+hash = "1a592e56f6720b44d1031d2d715d454eff2099e915160c0c75f853ae8b314b15"
 metafile = true
 
 [[files]]
