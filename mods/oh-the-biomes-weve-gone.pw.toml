@@ -4,8 +4,8 @@ side = "both"
 
 [download]
 url = "https://cdn.modrinth.com/data/NTi7d3Xc/versions/dZcsSoiO/Oh-The-Biomes-Weve-Gone-Forge-1.7.1.jar"
-hash-format = "sha512"
-hash = "1c53e0ba308b00da3c18df15990e9bccb77da533f2b475b014299c2f4142fd23ef49c8a7dd6b84b3c9ea26ee4f9d830d709cfe32b77d8e5cfd856d2d7c4ca880"
+hash-format = "sha256"
+hash = "238fd7db7dc570d1b315873d719b69b9975d67eae193c7f60620a24c005d7224"
 
 [update]
 [update.modrinth]

@@ -4,8 +4,8 @@ side = "both"
 
 [download]
 url = "https://cdn.modrinth.com/data/8D9n8Vvf/versions/kDDnMJsj/UnderTheMoon_1.0.5.jar"
-hash-format = "sha512"
-hash = "c0f6f62786cad07de2ebb22a5e027d1c53622cb96b90f8dc1c63fd0b3220c1d69b0ab2c525c619881f9db5b6c10645632a40f340392f163f900868e51342e3ef"
+hash-format = "sha256"
+hash = "8b312b378fcc50a70507c7ba42cdbe10bdd9f27d00c0cc5dd66b4e0f5561a7a3"
 
 [update]
 [update.modrinth]
