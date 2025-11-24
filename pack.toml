@@ -1,0 +1,12 @@
+name = "Cool Pack"
+version = "1.0.0"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "a8965ef8b37d6c0fd376f6499387a9dddedfb639d1bb3a6e913d51441014e05c"
+
+[versions]
+forge = "47.4.12"
+minecraft = "1.20.1"

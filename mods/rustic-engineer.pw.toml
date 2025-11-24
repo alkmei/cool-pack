@@ -1,0 +1,13 @@
+name = "Rustic Engineer"
+filename = "rustic_engineer-1.1.4-forge-1.20.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/8KT9aVZC/versions/a78BUx6C/rustic_engineer-1.1.4-forge-1.20.1.jar"
+hash-format = "sha512"
+hash = "d036e470279afba4e937c8ccf4b9043c5771de7a47ef1af490748d6c58de7546687ca8eff89bb770095b5db4be3bfb21aa2722d0cbc739e13d299462a3a16e5d"
+
+[update]
+[update.modrinth]
+mod-id = "8KT9aVZC"
+version = "a78BUx6C"

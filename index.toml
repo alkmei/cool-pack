@@ -1,0 +1,206 @@
+hash-format = "sha256"
+
+[[files]]
+file = "mods/alexs-caves.pw.toml"
+hash = "0cbc4b2c6b58b7a94f030ae84f18057e5dc78a17bad429f40b8884926a6ab233"
+metafile = true
+
+[[files]]
+file = "mods/alexs-mobs.pw.toml"
+hash = "e1016eb125a5a41a10f80847eb00affae0e539e703846f303949ed5d82b7f1bf"
+metafile = true
+
+[[files]]
+file = "mods/aquamirae.pw.toml"
+hash = "61108f6f38c397683bcf3e9fab0641819ea6914a5b95e6a31fcdbf55466c2e26"
+metafile = true
+
+[[files]]
+file = "mods/architectury-api.pw.toml"
+hash = "4e81241ba2da06f425efc5e09fb6b38470125c1581c39e1310c5843a0b96ec76"
+metafile = true
+
+[[files]]
+file = "mods/astemirlib.pw.toml"
+hash = "1da281ef8b4b517b356c564ed5ceeb30d2a791f59b2e94e6c8c09764fc4d65ef"
+metafile = true
+
+[[files]]
+file = "mods/biomes-o-plenty.pw.toml"
+hash = "2bcea8e16d358942a8f8b8cf6e39cc303d90fac29b1b3ecb8033bd214d4afa0f"
+metafile = true
+
+[[files]]
+file = "mods/blueprint.pw.toml"
+hash = "90fc66d49d29c1b1a5b14c5d571d628c6853f7f0519b04e74e14399c75cd08c6"
+metafile = true
+
+[[files]]
+file = "mods/call-of-yucutan.pw.toml"
+hash = "4288b634b9392cb6edccd6b3836b6a4f9eeb1020e42ab3121f0457357a66fd32"
+metafile = true
+
+[[files]]
+file = "mods/citadel.pw.toml"
+hash = "0bdcf1c5057873c78db71bee196ccf5ec846f6cf82f639b094668b3ba92e151f"
+metafile = true
+
+[[files]]
+file = "mods/cloth-config.pw.toml"
+hash = "e3dd03e7fec88831974857e2cdded54dd5c5bdcaa3f6d6248c2800e82db4dd41"
+metafile = true
+
+[[files]]
+file = "mods/corgilib.pw.toml"
+hash = "aab86d52c9896cfcf7c0635c3c897c3dd190de84e3be9eeb726a22c5a61602ed"
+metafile = true
+
+[[files]]
+file = "mods/curios.pw.toml"
+hash = "9eefd607e0d54ec444e798ccdeede1a09a3939440bd1e11c11b84c07a5134be2"
+metafile = true
+
+[[files]]
+file = "mods/elysium-api.pw.toml"
+hash = "4e77452de64a8038260a173a36702830e264bf23b47bc12f33ebbcdc52e8d519"
+metafile = true
+
+[[files]]
+file = "mods/farmers-delight.pw.toml"
+hash = "9f2ffb0d4c65fcb2a96878287a7119459b9d0637c395e5097d691416690d6563"
+metafile = true
+
+[[files]]
+file = "mods/geckolib.pw.toml"
+hash = "1030e18f2e875dfdf39de82b823e1dfe6009f21f1aaad338137d3a90504e2f7e"
+metafile = true
+
+[[files]]
+file = "mods/glitchcore.pw.toml"
+hash = "71f185e62d546881244d4b5a213ebc3d2d6df14b0218c0e5dd6426fcb22cb55f"
+metafile = true
+
+[[files]]
+file = "mods/infinity-cave.pw.toml"
+hash = "af98db6d0fbe292f6276e3462651292580294638eb7cab87a1b5e30b2309d060"
+metafile = true
+
+[[files]]
+file = "mods/jadens-nether-expansion.pw.toml"
+hash = "18fdaa8b6729867b1862ea80eba84effc90f63b8d230eb529c5a949b30ae2695"
+metafile = true
+
+[[files]]
+file = "mods/l_enders-cataclysm.pw.toml"
+hash = "2077e6d69a10bbe27b402aa52e5a21ba1abec55b7b573e173e703908a85518ad"
+metafile = true
+
+[[files]]
+file = "mods/lionfish-api.pw.toml"
+hash = "3e055c411c197b2103e338dc9fdcd37272df81aaf4246f801694f97feaf7d232"
+metafile = true
+
+[[files]]
+file = "mods/lios-overhauled-villages.pw.toml"
+hash = "c5f1dc2623642c663f592e6d48af5a96456818e4a2ef7b58e310e15e5daf4889"
+metafile = true
+
+[[files]]
+file = "mods/minecraft-comes-alive-reborn.pw.toml"
+hash = "8cb57c911c4e2535d9d17d2d8f7d66ec223b7f7c327a51ae7b3d3e5750dc0849"
+metafile = true
+
+[[files]]
+file = "mods/mowzies-mobs.pw.toml"
+hash = "fc09447db9efb9f9ec998ce84cf11edfd089a2515a300e45fd06e607aabc051a"
+metafile = true
+
+[[files]]
+file = "mods/obscure-api.pw.toml"
+hash = "70d4e3ec754f6fffc5bd03814ed7e7a137b83311a43c817eef2fb2ac9c417d27"
+metafile = true
+
+[[files]]
+file = "mods/oh-the-biomes-weve-gone.pw.toml"
+hash = "0a62ce9e69f796a23bdc8d0555c3102f682c569386f3e83be331c896ecb80712"
+metafile = true
+
+[[files]]
+file = "mods/oh-the-trees-youll-grow.pw.toml"
+hash = "d948acee031db5a8190fe05f2f2434584e6a4323c4ced6be03d2de091a05f9ba"
+metafile = true
+
+[[files]]
+file = "mods/playeranimator.pw.toml"
+hash = "765987a78e5d8c782d0da2de99998b43b5907d6c41347d3804045ad109e4a586"
+metafile = true
+
+[[files]]
+file = "mods/rediscovered.pw.toml"
+hash = "eb63eb90c10377b12863a528efa60be47b85466a91b7a1e9f840e05ac1dd8358"
+metafile = true
+
+[[files]]
+file = "mods/ribbits.pw.toml"
+hash = "d668582ea913944b31fda3e0cbe8bd7fda3852f960bd4f7a58fe9bba526a9037"
+metafile = true
+
+[[files]]
+file = "mods/rustic-engineer.pw.toml"
+hash = "fae9f5671945aa015525bb30413dd97bda9d3d5f3653396119593ebe85fbdc6a"
+metafile = true
+
+[[files]]
+file = "mods/sky-lands.pw.toml"
+hash = "fcee0dbe9a356119dca4bcb82f06fb2831358b7d58dac65c24076daafe11f5d1"
+metafile = true
+
+[[files]]
+file = "mods/sleepy-hollows.pw.toml"
+hash = "7f16021d512a93e7fbb07af8bcd953fefcba49f66b67cc58add6de9fef34da47"
+metafile = true
+
+[[files]]
+file = "mods/structure-gel-api.pw.toml"
+hash = "0a1893b4abfd0e7243095240b329552c082dd3fa7874b43e9b43c94812875472"
+metafile = true
+
+[[files]]
+file = "mods/terrablender.pw.toml"
+hash = "14117b94c456598c9acece143c7a0da3cf56d13182d035a74a2da8a52dd19cbd"
+metafile = true
+
+[[files]]
+file = "mods/the-dawn-era.pw.toml"
+hash = "9305bd24b842bae542cae4a2b4278bb3444ed9b0284775ab4091b3d79a70375b"
+metafile = true
+
+[[files]]
+file = "mods/the-outer-end.pw.toml"
+hash = "19b2df23298a23ccbe41dee216160b55d55a658b13637f6f04e579756dbf3096"
+metafile = true
+
+[[files]]
+file = "mods/under-the-moon.pw.toml"
+hash = "f27189fa8f175860895ef6df3d7a4ab447ed5f4cd6009eb1e5a029296c0e74ad"
+metafile = true
+
+[[files]]
+file = "mods/wab.pw.toml"
+hash = "98782c73c6611eff0873dc608608ac6184a5b49c2b224cebf4adf2215faa428f"
+metafile = true
+
+[[files]]
+file = "mods/yungs-api.pw.toml"
+hash = "152c6732da180e958fb29f492bae2e468d4dfd423ce4d3d0d31ef31c2eec6c61"
+metafile = true
+
+[[files]]
+file = "mods/yungs-better-mineshafts.pw.toml"
+hash = "41aa01e9d0507d3131eb5fd2f6d8f2b7c54237e30a94e2a3bf6f52915cb8a688"
+metafile = true
+
+[[files]]
+file = "mods/zombies-more.pw.toml"
+hash = "e1129480069a0f29777bc206fba8e6a8d3b60c0f30e29bf44ed0f3f9e72492fc"
+metafile = true

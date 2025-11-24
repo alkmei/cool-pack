@@ -1,0 +1,13 @@
+name = "Zombies More"
+filename = "zombiesmore-2.1.0-forge-1.20.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/GJ3fdTWI/versions/xbq1yP2F/zombiesmore-2.1.0-forge-1.20.1.jar"
+hash-format = "sha512"
+hash = "25fb7be3c1cb8b47e67c49cf683565be1e9019c77579654ce4f89a2978725e4edb0795dcda2316d360e819f6a5c12c03cafc9b7223735bb83bc15d850f15f28a"
+
+[update]
+[update.modrinth]
+mod-id = "GJ3fdTWI"
+version = "xbq1yP2F"
