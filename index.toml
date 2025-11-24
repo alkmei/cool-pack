@@ -196,6 +196,11 @@ hash = "fae9f5671945aa015525bb30413dd97bda9d3d5f3653396119593ebe85fbdc6a"
 metafile = true
 
 [[files]]
+file = "mods/simple-voice-chat.pw.toml"
+hash = "e4b99d45d1cfb55b0ecd2aa78c56958b57460e63b637448017df60b2412e77d9"
+metafile = true
+
+[[files]]
 file = "mods/sky-lands.pw.toml"
 hash = "fcee0dbe9a356119dca4bcb82f06fb2831358b7d58dac65c24076daafe11f5d1"
 metafile = true
