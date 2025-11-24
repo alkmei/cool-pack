@@ -4,8 +4,8 @@ side = "both"
 
 [download]
 url = "https://cdn.modrinth.com/data/RV4ezinu/versions/s49dr29b/call_of_yucutan-1.0.13-forge-1.20.1.jar"
-hash-format = "sha256"
-hash = "063be00ddec8cd799b59db056157ac9b0ebbd177de2401c3f5d22ae4efc47bcc"
+hash-format = "sha512"
+hash = "c4d4be64d3a2b48f9c16fce581d5a338e4c9f2d24a2f0e884bb01d87e3d650a7fa7ae5f71696a530dd36ae628a8c8f73fc2ad8d0cc393159282e894e823639b6"
 
 [update]
 [update.modrinth]

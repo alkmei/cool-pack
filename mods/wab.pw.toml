@@ -4,8 +4,8 @@ side = "both"
 
 [download]
 url = "https://cdn.modrinth.com/data/nWC3kyL3/versions/RY6tjr9r/wab-1.20.1-1.3.2.jar"
-hash-format = "sha256"
-hash = "509e6843f533386848f54d37e84bd2ab1ddabe98dcb3bf8dfe6dc5fd1f95c97a"
+hash-format = "sha512"
+hash = "5ac692f7eeaf6d0cdb4fd6131b2bbe30bbb873c28a34b999b37a83b7b0e726ad6fb82138a9fb93f34e40384431fcfa549b41d9fbff845f5554182ca427f4f441"
 
 [update]
 [update.modrinth]

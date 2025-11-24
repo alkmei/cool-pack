@@ -4,8 +4,8 @@ side = "both"
 
 [download]
 url = "https://cdn.modrinth.com/data/FoVacERa/versions/KZh3Mkcu/lionfishapi-2.4.jar"
-hash-format = "sha256"
-hash = "e32eabf215390db859df87c9d3a7e701d477e39dc2a5b04568ab169f085168a7"
+hash-format = "sha512"
+hash = "08712bbd71cfd6f6187a54a1373a82a017ed2a6de989d641f70e60b67e82cb80dbe27dbe55d8315a4f006444057ac10670c6f61b230ad1d6d9eb1d7b37baeac0"
 
 [update]
 [update.modrinth]

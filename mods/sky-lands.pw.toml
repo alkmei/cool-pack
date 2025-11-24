@@ -4,8 +4,8 @@ side = "both"
 
 [download]
 url = "https://cdn.modrinth.com/data/WP5prCOu/versions/iiDVM4bs/SkyLands-0.5.0-1.20.1.jar"
-hash-format = "sha256"
-hash = "469ccea482bb4e00181cbd2833d0ec640a65478a111e218f8db23251c425e3a4"
+hash-format = "sha512"
+hash = "2cba9cf500e290f9e5c00ee087b4d12c5ed227e61f32fbf87bc2adde27e31f658d31da0fa00846a43e7a4983e4a56ef572b258f59780c5ed9504dce4b6459eda"
 
 [update]
 [update.modrinth]

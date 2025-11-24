@@ -4,8 +4,8 @@ side = "both"
 
 [download]
 url = "https://cdn.modrinth.com/data/DEq97NAA/versions/Lg0gTgfj/infinity_cave-0.4-1.20.1-FORGE.jar"
-hash-format = "sha256"
-hash = "338fde5e3138d91a5e46dc09331419025e5b6b16f0110058e25755f3dc18f5cf"
+hash-format = "sha512"
+hash = "955eb7a96ae9f3795e4fb134220213579c46ddadd22427e797b961265a95a19bcdd9584bf8ed4e7c3506a3c42b6dcee8cbdd975231159822c6353d4f7ffb8ee2"
 
 [update]
 [update.modrinth]
