@@ -31,6 +31,11 @@ hash = "1da281ef8b4b517b356c564ed5ceeb30d2a791f59b2e94e6c8c09764fc4d65ef"
 metafile = true
 
 [[files]]
+file = "mods/backpacked.pw.toml"
+hash = "5529fab4cd1c7f4bd6ad12cda0196d73cab74f5fb5bda828074897b4ae30f1c5"
+metafile = true
+
+[[files]]
 file = "mods/biomes-o-plenty.pw.toml"
 hash = "2bcea8e16d358942a8f8b8cf6e39cc303d90fac29b1b3ecb8033bd214d4afa0f"
 metafile = true
@@ -106,6 +111,11 @@ hash = "902bac905b93271f02bd0951a22bac06a3da24f5c237fcaeb469e14a7679e508"
 metafile = true
 
 [[files]]
+file = "mods/framework.pw.toml"
+hash = "376f8a190f00bd120193d7a665ebe1b03dfe329cc395f7d944f7216c1182c84d"
+metafile = true
+
+[[files]]
 file = "mods/geckolib.pw.toml"
 hash = "1030e18f2e875dfdf39de82b823e1dfe6009f21f1aaad338137d3a90504e2f7e"
 metafile = true
@@ -161,6 +171,11 @@ hash = "ade41e4315735aa9116a0222b332e03d3f8df6eea301764d40d0bdc40f5e8689"
 metafile = true
 
 [[files]]
+file = "mods/mighty-mail.pw.toml"
+hash = "b320c2f668b8789fd4d009899c7826862934129bb49f8cfc76a8164096020dce"
+metafile = true
+
+[[files]]
 file = "mods/minecraft-comes-alive-reborn.pw.toml"
 hash = "8cb57c911c4e2535d9d17d2d8f7d66ec223b7f7c327a51ae7b3d3e5750dc0849"
 metafile = true
@@ -196,6 +211,11 @@ hash = "765987a78e5d8c782d0da2de99998b43b5907d6c41347d3804045ad109e4a586"
 metafile = true
 
 [[files]]
+file = "mods/proximity-text-chat.pw.toml"
+hash = "e658e9a214d18b3957a7a4d399d8002fc244bc2535fb23255d1869645be578c8"
+metafile = true
+
+[[files]]
 file = "mods/radium.pw.toml"
 hash = "ae4d739bbdb025651a884093de72addac0865525b39e603fb575031a59987763"
 metafile = true
@@ -203,6 +223,11 @@ metafile = true
 [[files]]
 file = "mods/rediscovered.pw.toml"
 hash = "eb63eb90c10377b12863a528efa60be47b85466a91b7a1e9f840e05ac1dd8358"
+metafile = true
+
+[[files]]
+file = "mods/refurbished-furniture.pw.toml"
+hash = "2bcee75d08b33dd6506b7cd3f67ea9d0d2c1bf14e26728fa8e12ef19c895b165"
 metafile = true
 
 [[files]]
