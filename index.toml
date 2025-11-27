@@ -256,6 +256,11 @@ hash = "7f16021d512a93e7fbb07af8bcd953fefcba49f66b67cc58add6de9fef34da47"
 metafile = true
 
 [[files]]
+file = "mods/spark.pw.toml"
+hash = "0be4976227df8e261fd362889bf8e85b93e224d1b1c3cd2a11b73a9de3b64083"
+metafile = true
+
+[[files]]
 file = "mods/structure-gel-api.pw.toml"
 hash = "0a1893b4abfd0e7243095240b329552c082dd3fa7874b43e9b43c94812875472"
 metafile = true
@@ -293,6 +298,11 @@ metafile = true
 [[files]]
 file = "mods/wab.pw.toml"
 hash = "98782c73c6611eff0873dc608608ac6184a5b49c2b224cebf4adf2215faa428f"
+metafile = true
+
+[[files]]
+file = "mods/walkie-talkie.pw.toml"
+hash = "ca2a6b51aa613a0cfdd5a7a1af9f6d36601f8649d93b46aed19d8a36dd067335"
 metafile = true
 
 [[files]]
