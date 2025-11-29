@@ -1,0 +1,13 @@
+name = "Golden Potato"
+filename = "golden_potato-1.1.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/lpVjkYHu/versions/mFJGJh2P/golden_potato-1.1.1.jar"
+hash-format = "sha512"
+hash = "c194b892e1a5db461483a5c875981644aa597055bf06d28f585f3655f191381480ff4fd4961e6fc4ce9eac5b2d240b343a5185eb35bbdfac7c897ec48c9c45d5"
+
+[update]
+[update.modrinth]
+mod-id = "lpVjkYHu"
+version = "mFJGJh2P"
