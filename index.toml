@@ -201,6 +201,11 @@ hash = "8cb57c911c4e2535d9d17d2d8f7d66ec223b7f7c327a51ae7b3d3e5750dc0849"
 metafile = true
 
 [[files]]
+file = "mods/mob-lassos.pw.toml"
+hash = "d95cdf6aea332c39a9a88bcc3b8d546eae81a943cd6db86017c683a99be5c591"
+metafile = true
+
+[[files]]
 file = "mods/modernfix.pw.toml"
 hash = "f7f96cba7b6d9da8113c00b50ed4ced2e12f8b2266dd1a5524427fde64afb2e1"
 metafile = true
